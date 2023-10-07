@@ -1,1 +1,3 @@
 # Financial-Services-Case-Study
+
+It is used as a collective term to refer to a broad range of economic services provided by the finance industry, which encompasses a broad range of organizations that manage money, including credit unions, banks, credit card companies, insurance companies, consumer finance companies, stock brokerages, investment funds A banking domain is comprised of all the components needed to run a financial service end-to-end. It covers the transaction and distribution process; the ways in which customers interact with the system, products, and services the organization offers; and the technology involved.This data is taken from world bank site
